@@ -9,7 +9,7 @@ I am a Software Developer, driven by a curiosity for technology and a love for w
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,ts,nodejs,express,mongodb,docker,nginx,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express,mongodb,docker,nginx,react,redux)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
