@@ -14,6 +14,10 @@ I completed my Bachelor's degree from **Chandigarh College of Engineering and Te
 Induction WebApp  
 As a Full Stack Developer, I am responsible for building the backend infrastructure from scratch using Mongoose as ORM. I am managing config driven UI with managing all components rendering using react framework with the help of various libaray redux, react-query.
 
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express,mongodb,docker,nginx,react,redux)](https://skillicons.dev)
+
 ## 🚀 Project Showcase
 
 ### 1. [Video Streaming Platform](https://youtube-clone-1-zebi.onrender.com)
