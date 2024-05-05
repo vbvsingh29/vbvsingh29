@@ -4,7 +4,7 @@ I am a Full Stack Developer with a passion for building robust and scalable web 
 
 ## 🎓 Education
 
-I completed my Bachelor's degree from **Chandigarh College of Engineering and Technology**, specializing in Electronics and Communications, from 2019 to 2023.
+I completed my Bachelor's degree from **Chandigarh College of Engineering and Technology**, specializing in Electronics and Communications.
 
 ## 💼 Experience
 
