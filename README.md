@@ -8,11 +8,9 @@ I completed my Bachelor's degree from **Chandigarh College of Engineering and Te
 
 ## 💼 Experience
 
-**BJS Distribution Pvt Ltd**  
-*Software Developer*  
-*Jan 2023 - Present*  
-Induction WebApp  
-As a Full Stack Developer, I am responsible for building the backend infrastructure from scratch using Mongoose as ORM. I am managing config driven UI with managing all components rendering using react framework with the help of various libaray redux, react-query.
+**BJS Distribution Pvt Ltd**  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Jan 2023 - Present       
+*Software Developer*     
+As a Full Stack Developer, I am responsible for building the backend infrastructure from scratch using Mongoose as ORM. I am managing config-driven UI with managing all components rendering using react framework with the help of various library redux, react-query.
 
 ## Tech Stack
 
@@ -27,7 +25,7 @@ As a Full Stack Developer, I am responsible for building the backend infrastruct
 
 ### 2. [Password Vault](https://password-vault-ten.vercel.app)
 - **Technologies used:** Node.js, Express, Mongoose, React, React Redux, Redux-Persist, React Query, Chakra UI.
-- **Description:** A password vault application that encrypts passwords at the client-side before transmission to the server. This ensures secure storage even if the server is compromised.
+- **Description:** A password vault application that encrypts passwords at the client side before transmission to the server. This ensures secure storage even if the server is compromised.
 - [**GitHub:**](https://github.com/vbvsingh29/password-vault)
 
 ### 3. [Chat Application](https://realtime-chat-app-bay-one.vercel.app)                 
