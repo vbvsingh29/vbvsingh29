@@ -10,7 +10,7 @@ I completed my Bachelor's degree from **Chandigarh College of Engineering and Te
 
 **BJS Distribution Pvt Ltd**  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Jan 2023 - Present       
 *Software Developer*     
-As a Full Stack Developer, I am responsible for building the backend infrastructure from scratch using Mongoose as ORM. I am managing config-driven UI with managing all components rendering using react framework with the help of various library redux, react-query.
+As a Full Stack Developer, I am responsible for building the backend infrastructure from scratch using Mongoose as ORM. I am managing config-driven UI with managing all components rendering using react framework with the help of various libraries redux, react-query.
 
 ## Tech Stack
 
@@ -21,17 +21,17 @@ As a Full Stack Developer, I am responsible for building the backend infrastruct
 ### 1. [Video Streaming Platform](https://youtube-clone-1-zebi.onrender.com)
 - **Technologies used:** MongoDB, ExpressJS, ReactJS, NodeJS, TypeScript, Redux, AWS-S3.
 - **Description:** A full-stack video streaming platform where users can register and upload videos. Videos and images are uploaded to AWS S3, and video streaming is facilitated by reading videos in chunks based on client requirements.
-- [**GitHub:**](https://github.com/vbvsingh29/youtube-clone)
+- [**GitHub**](https://github.com/vbvsingh29/youtube-clone)
 
 ### 2. [Password Vault](https://password-vault-ten.vercel.app)
 - **Technologies used:** Node.js, Express, Mongoose, React, React Redux, Redux-Persist, React Query, Chakra UI.
 - **Description:** A password vault application that encrypts passwords at the client side before transmission to the server. This ensures secure storage even if the server is compromised.
-- [**GitHub:**](https://github.com/vbvsingh29/password-vault)
+- [**GitHub**](https://github.com/vbvsingh29/password-vault)
 
 ### 3. [Chat Application](https://realtime-chat-app-bay-one.vercel.app)                 
 - **Technologies used:** Node.js, Express, Socket.IO, React, CSS, Socket.io.client.
 - **Description:** A real-time chat application utilizing WebSocket technology for instant communication between clients.
-- [**GitHub:**](https://github.com/vbvsingh29/realtime-chat-app)
+- [**GitHub**](https://github.com/vbvsingh29/realtime-chat-app)
 
 ## 🌱 Currently Exploring
 
