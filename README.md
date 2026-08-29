@@ -19,8 +19,8 @@ As a Full Stack Developer, I am responsible for building the backend infrastruct
 ## 🚀 Project Showcase
 
 ### 1. [Video Streaming Platform](https://youtube-clone-1-zebi.onrender.com)
-- **Technologies used:** MongoDB, ExpressJS, ReactJS, NodeJS, TypeScript, Redux, AWS-S3.
-- **Description:** A full-stack video streaming platform where users can register and upload videos. Videos and images are uploaded to AWS S3, and video streaming is facilitated by reading videos in chunks based on client requirements.
+- **Technologies used:** MongoDB, ExpressJS, ReactJS, NodeJS, TypeScript, Redux, Local Filesystem.
+- **Description:** A full-stack video streaming platform where users can register and upload videos. Videos and images are saved locally and streamed using custom filesystem range-request pipes to enable high-performance chunked media playback.
 - [**GitHub**](https://github.com/vbvsingh29/youtube-clone)
 
 ### 2. [Password Vault](https://password-vault-ten.vercel.app)
