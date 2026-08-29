@@ -1,47 +1,58 @@
-# Hi, I'm Vaibhav Singh! 👋
+# Vaibhav Singh
 
-I am a Full Stack Developer with a passion for building robust and scalable web applications. My journey involves continuous learning, exploring new technologies, and collaborating with diverse teams to create innovative solutions.
+Full Stack Developer with 3 years of experience building scalable backend systems and modern React frontends. I focus on clean architecture, secure authentication systems, and automation that removes manual work.
+
+📫 [vbvsingh2905@gmail.com](mailto:vbvsingh2905@gmail.com) · 🔗 [linkedin.com/in/vbvsingh](https://linkedin.com/in/vbvsingh)
+
+---
 
 ## 🎓 Education
 
-I completed my Bachelor's degree from **Chandigarh College of Engineering and Technology**, specializing in Electronics and Communications.
+Bachelor's degree (B.E., Electronics & Communication) — Chandigarh College of Engineering and Technology (CCET)
 
 ## 💼 Experience
 
-**BJS Distribution Pvt Ltd**  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Jan 2023 - Present       
-*Software Developer*     
-As a Full Stack Developer, I am responsible for building the backend infrastructure from scratch using Mongoose as ORM. I am managing config-driven UI with managing all components rendering using react framework with the help of various libraries redux, react-query.
+**BJS Distribution Pvt Ltd** — Software Developer
+Jan 2023 – Present
 
-## Tech Stack
+- Built a multi-domain authentication system with SSO, supporting 500+ active users across internal platforms
+- Designed an AWS Lambda-based data sync pipeline processing 10,000+ records per cycle, cutting manual work by 90%
+- Built a Dockerized HR induction platform (Node.js + NGINX) that reduced processing time by 50%
+- Work across the full stack: Node.js/Express APIs, MongoDB, React/Redux Toolkit frontends, deployed via Docker & AWS
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,express,mongodb,docker,nginx,react,redux)](https://skillicons.dev)
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript
+**Backend:** Node.js, Express.js, REST APIs, Mongoose
+**Frontend:** React, Redux Toolkit, React Query, Chakra UI
+**Database:** MongoDB
+**Cloud/DevOps:** AWS (Lambda, S3), Docker, NGINX
+**Tools:** Git, Postman, Jira
 
 ## 🚀 Project Showcase
 
-### 1. [Video Streaming Platform](https://youtube-clone-1-zebi.onrender.com)
-- **Technologies used:** MongoDB, ExpressJS, ReactJS, NodeJS, TypeScript, Redux, Local Filesystem.
-- **Description:** A full-stack video streaming platform where users can register and upload videos. Videos and images are saved locally and streamed using custom filesystem range-request pipes to enable high-performance chunked media playback.
-- [**GitHub**](https://github.com/vbvsingh29/youtube-clone)
+**[Video Streaming Platform →](https://youtube-clone-1-zebi.onrender.com)**
+MongoDB, Express, React, Node.js, TypeScript, Redux, AWS S3 — full-stack video platform with chunked streaming and S3 uploads.
+[View Code](https://github.com/vbvsingh29/youtube-clone)
 
-### 2. [Password Vault](https://password-vault-ten.vercel.app)
-- **Technologies used:** Node.js, Express, Mongoose, React, React Redux, Redux-Persist, React Query, Chakra UI.
-- **Description:** A password vault application that encrypts passwords at the client side before transmission to the server. This ensures secure storage even if the server is compromised.
-- [**GitHub**](https://github.com/vbvsingh29/password-vault)
+**[Real-Time Chat Application →](https://realtime-chat-app-bay-one.vercel.app)**
+Node.js, Express, Socket.IO, React — instant bidirectional messaging over WebSockets.
+[View Code](https://github.com/vbvsingh29/realtime-chat-app)
 
-### 3. [Chat Application](https://realtime-chat-app-bay-one.vercel.app)                 
-- **Technologies used:** Node.js, Express, Socket.IO, React, CSS, Socket.io.client.
-- **Description:** A real-time chat application utilizing WebSocket technology for instant communication between clients.
-- [**GitHub**](https://github.com/vbvsingh29/realtime-chat-app)
+**[URL Shortener →](https://github.com/vbvsingh29/url-shortner)**
+Node.js, Express, TypeScript — a classic system-design problem implemented end-to-end: short-code generation, redirection, collision handling.
 
-## 🌱 Currently Exploring
+**[Load Balancer →](https://github.com/vbvsingh29/load-balancer)**
+JavaScript — a custom load balancer built from scratch to distribute and manage multiple concurrent requests.
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
+**[Node + Zod Validation →](https://github.com/vbvsingh29/node-zod)**
+TypeScript, Node.js, Zod — type-safe request validation patterns for Node/Express APIs.
 
-## 📬 Get in Touch
+## 📚 Also Grinding
 
-- Connect with me on [Gmail](mailto:vbvsingh2905@gmail.com)
-- LinkedIn [Linkedin](https://linkedin.com/in/vaibhav-singh-5298751a6)
+**[NeetCode 250 Submissions →](https://github.com/vbvsingh29/neetcode-submissions)**
+Active DSA practice log, tracking progress topic by topic.
 
-Thanks for stopping by! Let's connect and build amazing things together. 🚀
+## 🌱 Currently Learning
+
+PostgreSQL & Redis · FastAPI (Python) — applying 2 years of production experience toward interview readiness
